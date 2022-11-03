@@ -1,2 +1,2 @@
-model_checkpoint_path: "dqn_weights_r500.h5f"
-all_model_checkpoint_paths: "dqn_weights_r500.h5f"
+model_checkpoint_path: "dqn_weights_r500_ERRORFREE.h5f"
+all_model_checkpoint_paths: "dqn_weights_r500_ERRORFREE.h5f"
